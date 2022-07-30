@@ -26,23 +26,24 @@ Here are some ideas to get you started:
 ### 🔭 Blog:
 
 <a href="https://velog.io/@gn0lee">
-<img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <a/>
   
 <br />
 
 ### 💻 Tech stack:
+![](https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
+![](https://img.shields.io/badge/Typescript-#3178C6?style=flat-square&logo=Typescript&logoColor=white) 
+![](https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-#1572B6?style=flat-square&logo=CSS3&logoColor=white) 
+
  
 
 ### 📫 Contact me:
  
  
-#### Personal Account
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gn0lee&show_icons=true&theme=tokyonight)
 
-#### STC Lab Account 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-jinho&show_icons=true&theme=tokyonight)
 
 
