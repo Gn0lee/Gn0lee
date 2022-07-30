@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) 
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
-
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
  
 
 ### 📫 Contact me:
@@ -45,5 +47,5 @@ Here are some ideas to get you started:
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gn0lee&show_icons=true&theme=tokyonight)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-jinho&show_icons=true&theme=tokyonight)
 
