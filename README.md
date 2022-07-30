@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-<!--  
-💻 What can I use
-- Programming Languages: Javascript, TypeScript, Python
-- Front-end: HTML, CSS, React.js, Emotion, storybook
-- Design: Figma 
--->
-
 ## 안녕하세요! Frontend Engineer를 꿈꾸는 이진호입니다.
 
 
@@ -39,13 +32,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
- 
 
+### 👮‍♂️ Company Account
+ 
+ <a href="https://github.com/ian-jinho">
+ <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<a/>
 ### 📫 Contact me:
  
- 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gn0lee&show_icons=true&theme=tokyonight)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-jinho&show_icons=true&theme=tokyonight)
+![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white) jinho605@gmail.com
 
