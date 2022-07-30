@@ -33,22 +33,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-<br />
-
 ### ☎️ Collaboration Tools
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
-
-<br />
 
 ### 👮‍♂️ Company Account
  
 <a href="https://github.com/ian-jinho">
  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <a/>
- 
-<br />
  
 ### 📫 Contact me:
  
