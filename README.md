@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-## 안녕하세요! Frontend Engineer를 꿈꾸는 이진호입니다.
+## 안녕하세요! Frontend Engineer 이진호입니다.
 
 
 ### 🔭 Blog:
