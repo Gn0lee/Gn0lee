@@ -35,10 +35,12 @@ Here are some ideas to get you started:
 
 ### 👮‍♂️ Company Account
  
- <a href="https://github.com/ian-jinho">
+<a href="https://github.com/ian-jinho">
  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <a/>
+  
 ### 📫 Contact me:
  
-![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white) jinho605@gmail.com
+![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white) 
+#### jinho605@gmail.com
 
